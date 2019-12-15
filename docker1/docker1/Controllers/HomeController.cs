@@ -5,7 +5,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using docker1.Models;
-
 namespace docker1.Controllers
 {
     public class HomeController : Controller
